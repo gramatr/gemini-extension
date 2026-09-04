@@ -1,0 +1,12 @@
+{
+  "name": "gramatr",
+  "version": "0.35.16",
+  "description": "Real-time intelligent context engineering — pre-classified prompts, persistent memory, and quality gates across every session.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "gramatr": {
+      "httpUrl": "https://api.gramatr.com/mcp",
+      "timeout": 30000
+    }
+  }
+}
